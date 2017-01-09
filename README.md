@@ -1,5 +1,5 @@
 # thegiftofgod
-Beta for my book on Augustine, the Holy Spirit, and the Filioque Controversy
+<strong>Beta for my book on Augustine, the Holy Spirit, and the Filioque Controversy</strong>
 
 
 In the summer of 2014, I finished an undergraduate thesis for college. I had wanted to turn the thesis into a book for the general public, but I lost interest.
